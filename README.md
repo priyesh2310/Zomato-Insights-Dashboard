@@ -77,23 +77,6 @@ The **Zomato Analytics Dashboard** is a data visualization project built to prov
 - Marketing Team
 - Restaurant Owners
 
-## 📅 Timeline
-
-| Phase | Date Range |
-|-------|------------|
-| Requirement Gathering | [Insert Date Range] |
-| Development | [Insert Date Range] |
-| Testing & Feedback | [Insert Date Range] |
-| Deployment | [Insert Date] |
-
-## 🚨 Risks and Mitigation
-
-| Risk | Mitigation |
-|------|------------|
-| Data inconsistency | Implement validation rules |
-| Performance issues | Optimize Power BI model |
-| Scope creep | Freeze requirements pre-dev |
-
 ## ✅ Approvals
 
 | Name | Role | Approval Date |
@@ -112,5 +95,5 @@ The **Zomato Analytics Dashboard** is a data visualization project built to prov
 
 ## 📬 Contact
 
-For any questions or feedback, feel free to reach out at priyeshkumar554@gmail.com.
+For any questions or feedback, feel free to reach out at [priyeshkumar554@gmail.com].
 
